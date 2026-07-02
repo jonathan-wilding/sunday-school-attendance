@@ -28,6 +28,7 @@ adding database, authentication, and reporting features.
 ## Tech stack
 
 (updating as the project grows alongside my coursework)
+currently - PYTHON, HTML, CSS
 
 ## Learning notes
 
